@@ -87,11 +87,14 @@ This work feeds my curiosity about **AI-driven game systems**.
 
 ---
 
-## 📈 GitHub Activity
+## 🧪 Languages & Code Focus
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eslam135&show_icons=true&theme=tokyonight&icon_color=00ff9c&title_color=00e5ff" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eslam135&theme=tokyonight&ring=00ff9c&fire=00e5ff" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eslam135&layout=compact&theme=tokyonight&title_color=00e5ff&text_color=ffffff&icon_color=00ff9c&bg_color=1a1b27" height="180"/>
+</p>
+
+<p align="center">
+  <i>Primary focus reflects gameplay systems, low-level experimentation, and engine work.</i>
 </p>
 
 ---
