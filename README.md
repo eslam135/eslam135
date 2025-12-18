@@ -2,29 +2,45 @@
      Animated Header
 ======================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,100:00ff9c&height=180&section=header&text=Eslam%20Fouly&fontSize=42&fontColor=0a0a0a&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,100:00ff9c&height=190&section=header&text=Eslam%20Fouly&fontSize=42&fontColor=0a0a0a&animation=fadeIn" />
 </p>
 
 <h3 align="center">
-Game Developer • Systems Thinker • Graphics & AI Enthusiast
+Game Developer • Gameplay Systems • Low-Level Graphics
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF9C&center=true&vCenter=true&width=500&lines=I+build+games+close+to+the+metal.;Unity+%7C+C%2B%2B+%7C+OpenGL+%7C+SFML;Gameplay+Systems+%26+Technical+Design;Learning+never+stops." />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF9C&center=true&vCenter=true&width=550&lines=I+make+games+because+systems+fascinate+me.;Gameplay+comes+first.;C%2B%2B+%7C+Unity+%7C+OpenGL+%7C+SFML;Turning+ideas+into+playable+experiences." />
 </p>
 
 ---
 
-## 🧠 About Me
+## 🎮 Who I Am
 
-I’m a **Game Developer** with a strong **computer science foundation** and a love for **low-level systems**.
+I’m **Eslam**, a **game developer** with a computer science background and a deep love for how games *work under the hood*.
 
-I enjoy building things that:
-- run fast,
-- feel good to play,
-- and make sense architecturally.
+I didn’t get into games just to make things look nice —  
+I got into them because I’m obsessed with:
+- **gameplay systems**
+- **rules interacting with rules**
+- and the moment when math, code, and player input *click* into something fun.
 
-My comfort zone lives somewhere between **C++ memory layouts**, **shader math**, and **Unity gameplay systems** — with a growing curiosity about **AI-driven mechanics** and procedural design.
+I enjoy working close to the metal when needed (C++, OpenGL, SFML),  
+and higher-level tools when they serve the design (Unity).
+
+To me, a good game is not an accident — it’s an **engineered experience**.
+
+---
+
+## 🧠 How I Think About Games
+
+I care deeply about:
+- 🧩 **System clarity** → mechanics that are easy to learn, hard to master  
+- ⚙️ **Clean architecture** → code that survives iteration  
+- 🎯 **Player feedback** → every action should *mean* something  
+- 🚀 **Performance & control** → understanding what the engine is doing  
+
+I enjoy prototyping ideas quickly, then refining them until they feel *right*.
 
 ---
 
@@ -34,33 +50,44 @@ My comfort zone lives somewhere between **C++ memory layouts**, **shader math**,
   <img src="https://skillicons.dev/icons?i=cpp,c,cs,unity,opengl,git,github,python&theme=dark" />
 </p>
 
-**Core Focus**
-- 🎮 Game Development (Unity, C++, SFML)
-- 🧩 Gameplay & Systems Design
-- 🧠 AI in Games (ML experiments, procedural ideas)
-- 🎨 Graphics Programming (OpenGL, shaders, rendering basics)
+**Main Tools**
+- 🎮 **Unity** — gameplay logic, UI systems, mobile & PC builds  
+- ⚙️ **C++ / SFML** — custom engines, gameplay loops, 2D systems  
+- 🎨 **OpenGL** — shaders, rendering experiments, visual effects  
+- 🧠 **Python / AI** — computer vision & ML experiments  
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Selected Projects & Game Work
 
-> *(Pin these repos on your profile for maximum effect)*
+### 🟢 Unity Games
+- Mobile and PC game projects  
+- Player controllers, menus, scene flow, game states  
+- Portrait ↔ landscape handling, UI scaling, progression systems  
 
-🟢 **Unity Games**
-- Mobile & PC projects with clean architecture  
-- Player systems, UI flows, scene management  
+These projects focus on **feel**, **clarity**, and **clean structure**.
 
-🔵 **C++ / SFML / OpenGL**
-- Low-level rendering experiments  
-- Procedural effects & math-heavy visuals  
+---
 
-🟣 **AI & Computer Vision**
-- Medical image classification  
+### 🔵 C++ / SFML / Low-Level Projects
+- 2D games and gameplay prototypes written from scratch  
+- Procedural placement systems, obstacles, level generation  
+- Tight control over rendering, collisions, and update loops  
+
+These projects sharpen how I think about **engines**, not just games.
+
+---
+
+### 🟣 AI & Experimental Work
+- Computer vision models for medical image classification  
 - GAN-based data augmentation experiments  
+- Exploring how AI systems could inspire future gameplay mechanics  
+
+This work feeds my curiosity about **AI-driven game systems**.
 
 ---
 
-## 📈 GitHub Stats (because numbers tell stories)
+## 📈 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=eslam135&show_icons=true&theme=tokyonight&icon_color=00ff9c&title_color=00e5ff" height="165"/>
@@ -69,25 +96,31 @@ My comfort zone lives somewhere between **C++ memory layouts**, **shader math**,
 
 ---
 
-## 🌊 Philosophy
+## 🌊 What I’m Aiming For
 
-> “Simple systems scale.  
-> Fancy systems collapse.”
+I want to:
+- build **strong gameplay foundations**
+- work on games where systems matter
+- and keep growing toward **technical game development & engine-level work**
 
-I believe good games come from:
-- clear rules,
-- strong feedback,
-- and respecting the player’s time.
-
-I’m always refining my craft — technically *and* creatively.
+I’m always learning — graphics, AI, architecture, design — because games sit at the intersection of all of them.
 
 ---
 
-## 📫 Connect
+## 📫 Contact & Links
 
 <p align="center">
   <a href="https://github.com/eslam135">
     <img src="https://img.shields.io/badge/GitHub-00e5ff?style=for-the-badge&logo=github&logoColor=black" />
+  </a>
+  <a href="https://www.linkedin.com/in/eslam-fouly-l-s/">
+    <img src="https://img.shields.io/badge/LinkedIn-00ff9c?style=for-the-badge&logo=linkedin&logoColor=black" />
+  </a>
+  <a href="mailto:foulyeslam@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-00e5ff?style=for-the-badge&logo=gmail&logoColor=black" />
+  </a>
+  <a href="https://v0-modern-game-portfolio-jet.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-00ff9c?style=for-the-badge&logo=vercel&logoColor=black" />
   </a>
 </p>
 
