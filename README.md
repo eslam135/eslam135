@@ -90,7 +90,7 @@ This work feeds my curiosity about **AI-driven game systems**.
 ## 🧪 Languages & Code Focus
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eslam135&layout=compact&theme=tokyonight&title_color=00e5ff&text_color=ffffff&icon_color=00ff9c&bg_color=1a1b27" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eslam135&layout=compact" />
 </p>
 
 <p align="center">
